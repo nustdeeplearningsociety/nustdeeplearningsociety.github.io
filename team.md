@@ -3,9 +3,9 @@ layout: page
 title: Team
 ---
 
-### Founders
+### [Muhammad Kamran Janjua](https://kjanjua26.github.io/) | Founder
 
-![KJ](images/team_member.jpg) ![RH](images/team_member.jpg)
+![KJ](images/team_member.jpg)
 
 
 ### [Raja Hasnain Anwar](https://rhasnainanwar.github.io/) | Founder
