@@ -5,7 +5,7 @@ title: Team
 
 ### [Susanna Allés Torrent](http://susannalles.github.io/) | Hyper philologist
 
-<img src="images/team_member.jpg"/>
+![Drag Racing](images/team_member.jpg)
 
 
 ### [Terry Catapano](https://github.com/tcatapano) | Metadata ninja
