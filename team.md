@@ -5,7 +5,7 @@ title: Team
 
 ### Founders
 
-![alt-text-1](images/team_member.jpg "title-1") ![alt-text-2](images/team_member.jpg "title-2")
+![KJ](images/team_member.jpg) ![RH](images/team_member.jpg)
 
 
 ### [Raja Hasnain Anwar](https://rhasnainanwar.github.io/) | Founder
