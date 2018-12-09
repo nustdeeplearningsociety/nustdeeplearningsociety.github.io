@@ -9,10 +9,102 @@ title: Team
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" 
 	integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-	<link rel="stylesheet" type="text/css" href="localassets/styles.css"/>
+
+	
+	
+	<title>TeamPage</title>
+
+	<style>
+		/* ------------------------------Team Page CSS-----------------------------------*/
+		.text-block {
+			position: absolute;
+			text-align: center;
+			color: black;
+			font-family: Helvetica;
+			font-weight: bolder;
+			font-size: 50px;
+		}
+
+		.description{
+			text-align: center;
+			color:gray;
+			font-family: Helvetica;	
+			font-size: 18px;
+		}
+
+		.text-block-member {
+			
+			text-align: center;
+			color: black;
+			font-family: Helvetica;
+			font-weight: bold;
+			font-size: 30px;
+			left:15%;
+		}
+
+		.bar {
+			align: center;
+			width: 15%;
+			height: 5px;
+			background:black;
+			margin-top: 2%;
+			padding-left: 15%;
+			margin-left: 43%;
+		}
+
+
+		#memberimg:hover {
+			filter: brightness(70%);
+		}
+
+		#memberimg {
+			width: 100%;
+			margin-top: 10%;
+			padding-top:10%;
+		}
+
+		.padder {
+			overflow: hidden;
+			padding: 2%;
+			
+		}
+
+		.padder:hover img {
+			transform: scale(1.05);
+		}
+
+		.padder img {
+			transition: 0.6s ease;
+		}
+
+		@media only screen and (max-width: 992px) {
+			/* For tablets: */
+			.text-block {
+				font-size: 65px;
+				width: 100%;
+			}
+			.text-block-member{
+				font-size:40px;
+			}
+		}
+
+		@media only screen and (max-width: 480px) {
+			/* For phones: */
+			.text-block {
+				font-size: 55px;
+			}
+
+			.text-block-member{
+				font-size:60px;
+			}
+		}
+		/* ------------------------------Team Page CSS ENDS-----------------------------------*/
+	</style>
+
 </head>
 
 <body>
